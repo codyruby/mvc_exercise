@@ -1,6 +1,6 @@
 # README
 
-## Branch dev
+## Branch dev -> model
 
 ## App specifications
 
